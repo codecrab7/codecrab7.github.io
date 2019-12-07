@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://codecrab7.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Dec 2019 18:47:23 +0800</lastBuildDate>
+    
+	<atom:link href="https://codecrab7.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://codecrab7.github.io/post/blog/</link>
+      <pubDate>Sat, 07 Dec 2019 18:47:23 +0800</pubDate>
+      
+      <guid>https://codecrab7.github.io/post/blog/</guid>
+      <description>我的第一个博客 这是用Hugo搭建的个人博客网站</description>
+    </item>
+    
+  </channel>
+</rss>
